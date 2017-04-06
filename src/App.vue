@@ -15,6 +15,11 @@ export default {
 }
 </script>
 <style lang='scss'>
+body {
+    padding: 0;
+    margin: 0;
+}
+
 #app {
     font-family: 'Avenir', Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
@@ -24,10 +29,32 @@ export default {
 }
 
 .nav {
-    border-bottom: 1px solid #ccc;
-    height: 35px;
+    line-height: 45px;
+    background: cadetblue;
     & a {
         padding: 10px;
+        color: #fff;
+        text-decoration: none;
+        &:hover {
+            border-bottom: 3px solid #20a0ff;
+            background-color: #6db39f;
+        }
     }
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+}
+
+.ml20 {
+    margin-left: 20px;
+}
+
+pre {
+    text-align: left;
+    margin: auto;
+    max-height: 350px;
+    overflow: auto;
 }
 </style>

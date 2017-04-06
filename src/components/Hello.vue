@@ -1,6 +1,7 @@
 <template>
-    <div class="hello">
-        <h1>---</h1>
+    <div class="">
+        <h1>Vue 组件</h1>
+        <img height="600" src="http://upload-images.jianshu.io/upload_images/2250086-abb5985cb7931e9b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="">
     </div>
 </template>
 <script>
