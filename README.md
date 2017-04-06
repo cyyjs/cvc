@@ -4,8 +4,8 @@
 > 省市选择组件
 > 时段选择组件
 > 
-## Demo https://cyy0418.github.io/cvc/
-
+## Demo
+[https://cyy0418.github.io/cvc](https://cyy0418.github.io/cvc)
 
 ## Build Setup
 
