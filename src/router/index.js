@@ -4,6 +4,7 @@ import Hello from '@/components/Hello'
 import DatePicker from '@/views/date-picker'
 import Location from '@/views/location'
 import Schedule from '@/views/schedule'
+import Draggable from '@/views/draggable'
 
 Vue.use(Router)
 
@@ -24,5 +25,9 @@ export default new Router({
         path: '/schedule',
         name: 'Schedule',
         component: Schedule
+    }, {
+        path: '/draggable',
+        name: 'Draggable',
+        component: Draggable
     }]
 })

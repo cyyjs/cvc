@@ -6,6 +6,8 @@
 > 
 > [时段选择组件](https://cyy0418.github.io/cvc/#/schedule)
 > 
+> [拖放组件](https://cyy0418.github.io/cvc/#/draggable)
+> 
 ## Demo
 [https://cyy0418.github.io/cvc](https://cyy0418.github.io/cvc)
 
