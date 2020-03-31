@@ -1,15 +1,15 @@
 # vue2组件
 使用vue2写的组件
-> [日历组件](https://cyy0418.github.io/cvc/#/date-picker)
+> [日历组件](https://cyyjs.github.io/cvc/#/date-picker)
 > 
-> [省市选择组件](https://cyy0418.github.io/cvc/#/location)
+> [省市选择组件](https://cyyjs.github.io/cvc/#/location)
 > 
-> [时段选择组件](https://cyy0418.github.io/cvc/#/schedule)
+> [时段选择组件](https://cyyjs.github.io/cvc/#/schedule)
 > 
-> [拖放组件](https://cyy0418.github.io/cvc/#/draggable)
+> [拖放组件](https://cyyjs.github.io/cvc/#/draggable)
 > 
 ## Demo
-[https://cyy0418.github.io/cvc](https://cyy0418.github.io/cvc)
+[https://cyyjs.github.io/cvc](https://cyyjs.github.io/cvc)
 
 ## Build Setup
 
